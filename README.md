@@ -1,4 +1,4 @@
-chatapp-server
+chatapp server
 ==============
 
-chatapp server (java sockets threads)
+ChatApp server (java sockets threads)
